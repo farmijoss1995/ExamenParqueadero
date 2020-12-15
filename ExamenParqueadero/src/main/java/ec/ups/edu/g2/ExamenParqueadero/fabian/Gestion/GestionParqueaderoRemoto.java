@@ -1,7 +1,7 @@
-package ec.ups.edu.g2.ExamenParqueadero.Gestion;
+package ec.ups.edu.g2.ExamenParqueadero.fabian.Gestion;
 
-import ec.ups.edu.g2.ExamenParqueadero.EN.ENticket;
-import ec.ups.edu.g2.ExamenParqueadero.EN.ENVehiculo;
+import ec.ups.edu.g2.ExamenParqueadero.fabian.EN.ENVehiculo;
+import ec.ups.edu.g2.ExamenParqueadero.fabian.EN.ENticket;
 
 
 public interface GestionParqueaderoRemoto {
